@@ -16,14 +16,8 @@ This project demonstrates how **Linear Regression** works under the hood by impl
 ## ⚙️ How It Works
 
 1. Initialize weights and bias  
-2. Use the cost function:
-   \[
-   J = \frac{1}{n} \sum_{i=1}^{n} (y_i - (mx_i + b))^2
-   \]
-3. Update weights using Gradient Descent:
-   \[
-   m = m - \alpha \cdot \frac{\partial J}{\partial m}, \quad b = b - \alpha \cdot \frac{\partial J}{\partial b}
-   \]
+2. Use the cost function
+3. Update weights using Gradient Descent
 4. Stop when convergence is achieved  
 5. Plot predictions vs original data
 
