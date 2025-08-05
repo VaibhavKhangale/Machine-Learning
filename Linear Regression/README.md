@@ -34,3 +34,14 @@ cd Machine-Learning/Linear Regression
 
 # open notebook
 # jupyter notebook FILENAME.ipynb
+```
+
+---
+
+## My Notes
+
+![Regression](../media/IMG_20250805_174115.jpg)
+![Loss](../media/IMG_20250805_174144.jpg)
+![Cost function](../media/IMG_20250805_174128.jpg)
+![Gradient Descent](../media/IMG_20250805_174159.jpg)
+![Gradient Derivation](../media/IMG_20250805_174217.jpg)
