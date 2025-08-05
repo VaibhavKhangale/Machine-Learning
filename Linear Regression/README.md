@@ -36,7 +36,7 @@ This project demonstrates how **Linear Regression** works under the hood by impl
 git clone https://github.com/VaibhavKhangale/Machine-Learning.git
 
 # Navigate to this project
-cd ML-Projects/Linear Regression
+cd Machine-Learning/Linear Regression
 
 # open notebook
 # jupyter notebook FILENAME.ipynb
