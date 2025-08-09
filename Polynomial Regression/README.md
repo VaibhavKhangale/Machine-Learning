@@ -37,4 +37,10 @@ cd Machine-Learning/Polynomial Regression
 
 # Open in Jupterlab
 jupyter lab FILENAME.ipynb
+```
+---
+
+## Notes
+
+![intro](../media/IMG_20250810_000611.jpg)
 
