@@ -44,4 +44,4 @@ jupyter notebook FILENAME.ipynb
 ## Notes
 
 ![intro](../media/IMG_20250810_000725.jpg)
-![more](../media/IMG_20250810_000647.jpg)
+![more](../media/IMG_20250810_000635.jpg)
