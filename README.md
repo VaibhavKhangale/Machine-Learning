@@ -12,6 +12,8 @@ Each project reflects a key concept I've learned, implemented, and documented.
 | #  | Project Name | Description |
 |----|--------------|-------------|
 | 1  | Linear Regression | Implemented linear regression using gradient descent and plotted best-fit line manually. |
+| 2  | Polynomial Regression | Implemented polynomial regression using gradient descent with multiple features and plotted best-fit line manually. |
+| 3  | Logistic Regression | Implemented logistic regression using gradient descent and plotted best-fit line manually. |
 
 > ⚠️ More projects coming soon...
 
