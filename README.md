@@ -1,3 +1,5 @@
+bored with basic stuff, nvm -_-
+
 # 🧠 Machine Learning Journey – From Scratch to Advanced 🚀
 
 Welcome to my Machine Learning portfolio!  
